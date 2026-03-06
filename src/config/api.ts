@@ -1,5 +1,5 @@
 // export const API_BASE_URL = 'https://7cvccltb-3113.inc1.devtunnels.ms';
-export const API_BASE_URL = 'http://apijob.seotube.in';
+export const API_BASE_URL = 'https://apijob.seotube.in/';
 //test
 export const API_ENDPOINTS = {
   ADMIN_SIGNUP: '/admin/signup',
